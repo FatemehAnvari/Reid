@@ -12,6 +12,6 @@ For Reid model:
 #query_path = 'C:\\Users\\Mavara\\Desktop\\D1_test\\frame_sequence_normal\\D1'
 
 
-#### 2.python reid_camera.py --feature_file_dir path mat file(feature_file) --camQ name camera Query --camG name camera Gallery 
+#### 2.python reid_camera.py --feature_file_dir path_mat_file(feature_file) --camQ name_camera_Query --camG name_camera_Gallery 
 
 
